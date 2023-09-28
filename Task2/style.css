@@ -1,0 +1,515 @@
+#header {
+    width: 1415px;
+    height: 786px;
+    left: 80px;
+    top: 35px;
+}
+
+.menu {
+
+    margin-top: 2em;
+    margin-left: 40em;
+    list-style-type: none;
+}
+
+.menu li {
+
+    display: inline-block;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 19px;
+    color: #B8BECD;
+    margin-right: 2em;
+
+}
+
+ul .home {
+    font-weight: 500;
+    color: #202336;
+
+}
+
+.menu-button-one {
+    width: 130px;
+    height: 40px;
+    border: 1px solid #FB8F1D;
+    box-sizing: border-box;
+    border-radius: 8px;
+    color: #FB8F1D;
+    background-color: #FFFFFF;
+    text-align: center;
+    font-weight: 500;
+    margin-right: -15px;
+
+}
+
+.menu-button-two {
+    outline: none;
+    width: 130px;
+    height: 40px;
+    background: #FB8F1D;
+    border-radius: 8px;
+    border-color: transparent;
+    color: #FFFFFF;
+    font-style: normal;
+    font-weight: 500;
+}
+
+.main-text {
+    position: absolute;
+    left: 190px;
+    right: 1000px;
+    top: 80px;
+    font-family: Playfair Display, serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 64px;
+    line-height: 80px;
+    color: #202336;
+}
+
+.ring {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 191px;
+    border-radius: 50%;
+}
+
+.ring1 {
+    background: #FB8F1D;
+    border: 3px solid #FFFFFF;
+    width: 15px;
+    height: 15px;
+    left: 200px;
+    top: 54px;
+
+}
+
+.ring2 {
+    width: 25px;
+    height: 25px;
+    left: 191px;
+    top: 45px;
+    border: 7px solid #1ABE84;
+}
+
+.element-1 {
+    position: absolute;
+    margin: 75px 580px;
+
+}
+
+.finder {
+    position: absolute;
+    width: 550px;
+    height: 400px;
+    left: 190px;
+    top: 325px;
+}
+
+.holiday-finder {
+    margin-bottom: 20px;
+    font-family: Inter, serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 27px;
+    color: #202336;
+
+}
+
+.line {
+    width: 32px;
+    height: 2px;
+    left: 191px;
+    top: 482px;
+    background: #202336;
+    border-radius: 4px;
+    margin-bottom: 30px;
+    margin-top: 10px;
+}
+
+.more-buttons > select {
+    width: 220px;
+    height: 52px;
+    border: 0.8px solid #AFB0B9;
+    box-sizing: border-box;
+    border-radius: 6px;
+    font-family: Inter, serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 32px;
+    color: #4A4C53;
+    margin-right: 30px;
+    margin-bottom: 35px;
+
+}
+
+.btn-explore {
+    background: #FB8F1D;
+    width: 180px;
+    height: 50px;
+    border-radius: 8px;
+    border-color: transparent;
+    font-family: Mulish, serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 17px;
+    line-height: 40px;
+    color: #FFFFFF;
+}
+
+.first-img {
+    position: absolute;
+    width: 687px;
+    height: 654px;
+    left: 800px;
+    top: 150px;
+}
+
+.element-2 {
+    width: 10px;
+    height: 10px;
+    margin-top: 330px;
+    margin-left: 80px;
+    border-radius: 50%;
+    border: 3px solid #62ddaa;
+}
+
+.element-3 {
+    border-radius: 50%;
+    border: 3px solid #62ddaa;
+    width: 10px;
+    height: 10px;
+    margin-top: 300px;
+    margin-left: 730px;
+}
+
+#section-1 {
+    position: absolute;
+    width: 1242px;
+    height: 550px;
+}
+
+.img-2 {
+    margin-left: 140px;
+    width: 650px;
+    height: 530px;
+}
+
+.post {
+    position: absolute;
+    width: 481px;
+    height: 333px;
+    left: 902px;
+    margin-top: 0;
+}
+
+.new-way {
+    font-family: Playfair Display, serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 50px;
+    color: #000000
+}
+
+.post-text {
+    width: 450px;
+    height: 120px;
+    font-family: Mulish, serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 17px;
+    line-height: 30px;
+    color: #7D7987;
+}
+
+.new-element-1 {
+    margin-left: 820px;
+    margin-top: -500px;
+}
+
+.place {
+    margin-left: 1300px;
+    margin-top: 280px
+}
+
+#section-2 {
+    position: absolute;
+    width: 1239px;
+    height: 532px;
+    left: 190px;
+    margin-top: 680px;
+
+}
+
+.head-sec-2 {
+    font-family: Playfair Display, serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 50px;
+
+}
+
+.view {
+    font-family: Inter, serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 17px;
+    line-height: 60px;
+    color: #FB8F1D;
+    margin-left: 1150px;
+    margin-top: -80px;
+}
+
+.destinations img {
+    margin-right: 20px;
+    border-radius: 6px;
+
+}
+
+
+.dest-name-1 {
+    position: absolute;
+    background: #FFFF;
+    border-radius: 0 6px;
+    width: 120px;
+    height: 56px;
+    top: 395px;
+
+}
+
+.dest-name-2 {
+    position: absolute;
+    background: #FFFF;
+    border-radius: 0 6px;
+    width: 120px;
+    height: 56px;
+    top: 395px;
+    left: 285px;
+
+}
+
+.dest-name-3 {
+    position: absolute;
+    background: #FFFF;
+    border-radius: 0 6px;
+    width: 120px;
+    height: 56px;
+    top: 395px;
+    left: 570px;
+
+}
+
+.dest-name-4 {
+    position: absolute;
+    background: #FFFF;
+    border-radius: 0 6px;
+    width: 120px;
+    height: 56px;
+    top: 395px;
+    left: 855px;
+
+}
+
+.dest-name p {
+    font-family: Inter, serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 17px;
+    line-height: 25px;
+    color: #042521;
+    margin-top: 10px;
+}
+
+.element-sec-2 {
+    margin-top: 20px;
+    margin-left: 200px;
+}
+
+.element-2-sec-2 {
+    margin-left: 1200px;
+    margin-top: -150px;
+}
+
+#section-3 {
+    position: absolute;
+    width: 1205px;
+    height: 542px;
+    margin-top: 1200px;
+    margin-left: 190px;
+}
+
+.head-sec-3 {
+    font-family: Playfair Display, serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 50px;
+    color: #000000;
+}
+
+.stars {
+    font-size: 20px;
+    margin-top: 50px;
+    width: 190px;
+    height: 24px;
+    color: #FFBB0C;
+}
+
+.testimonials {
+    width: 450px;
+    height: 321px;
+}
+
+.testimonials p {
+    font-family: Mulish, serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 36px;
+    color: #000000;
+}
+
+.testimonials .name-test {
+    font-family: Inter, serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 48px;
+    color: #000000;
+}
+
+.testimonials .place-test {
+    font-family: Inter, serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 48px;
+    color: rgba(0, 0, 0, 0.85);
+    margin-top: -30px;
+}
+
+.photo {
+    margin-left: 750px;
+    margin-top: -450px;
+}
+
+.photo img {
+    position: absolute;
+    background: #C4C4C4;
+    border-radius: 14px;
+}
+
+.rectangle {
+    position: absolute;
+    background: #FFFF;
+    border-radius: 16px 0px;
+    width: 132px;
+    height: 60px;
+    margin-left: 254px;
+    margin-top: 431px;
+}
+
+.left img {
+    width: 45px;
+    height: 45px;
+    margin-top: 430px;
+    margin-left: 260px;
+}
+
+.right img {
+    width: 45px;
+    height: 45px;
+    margin-top: 430px;
+    margin-left: 300px;
+}
+
+.comment {
+    resize: none;
+    position: absolute;
+    margin-top: 550px;
+    margin-left: 400px;
+    border: 2px solid #AFB0B9;
+    box-sizing: border-box;
+    border-radius: 6px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    text-align: center;
+}
+
+.sub {
+
+    margin-left: 545px;
+    margin-top: 770px;
+    width: 130px;
+    height: 40px;
+    background: #FB8F1D;
+    border-radius: 8px;
+    border-color: transparent;
+    color: #FFFFFF;
+    font-style: normal;
+    font-weight: 500;
+}
+
+#footer {
+    width: 100%;
+    height: 400px;
+    margin-top: 2200px;
+    background: #F9F9FB;
+}
+
+.footer-text, .copyright {
+    margin-top: 50px;
+    padding-top: 20px;
+    font-family: Mulish, serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 28px;
+    color: #848484;
+
+}
+
+td {
+    margin-top: 25px;
+    width: 25%;
+    font-family: Mulish, serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 19px;
+    line-height: 60px;
+    color: #000000;
+
+}
+
+td ul {
+    list-style-type: none;
+}
+
+td ul li {
+    font-family: Mulish, serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 38px;
+    text-align: left;
+    color: #848484;
+    margin-left: -30px;
+
+}
+
+.icons {
+    margin-left: 700px;
+}
+
+.icons img {
+    margin-top: 10px;
+    margin-right: 35px;
+}
