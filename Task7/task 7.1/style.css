@@ -1,0 +1,18 @@
+.container{
+    width: 300px;
+    height: 300px;
+    border: cornflowerblue 2px dashed;
+    text-align: center;
+}
+form{
+    text-align: left;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+.descriptions{
+
+    font-size: 18px;
+}
+.reload{
+    visibility: hidden;
+}

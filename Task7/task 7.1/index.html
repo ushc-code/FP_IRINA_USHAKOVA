@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="task.js"></script>
+    <link href="style.css" rel="stylesheet">
+</head>
+<body>
+<div class="container">
+    <form name="form" onsubmit="checkWeather(); return false">
+
+        <input type="text" name="city" placeholder="City">
+
+        <button type="submit" class="search">
+            <img src="search-outline.png" width="10px" height="10px">
+        </button>
+        <button class="reload" onclick="checkWeather()">Обновить</button>
+    </form>
+
+    <h1 class="descriptions"></h1>
+    <div class="img">
+    </div>
+    <p class="temp"></p>
+    <p class="pressure"></p>
+    <p class="humidity"></p>
+
+
+</div>
+</body>
+</html>
